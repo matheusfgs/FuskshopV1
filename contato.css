@@ -1,0 +1,52 @@
+body
+{background-color: #B12DEF;}
+
+
+
+
+.barracima {
+    background: black;
+    right: 0;
+          position: absolute;
+          z-index: -3;
+          height: 11.5vh;
+          width: 100%;
+          top: 0px;
+          box-sizing: border-box;
+    }
+
+
+
+
+    .top-bar 
+    {   position: sticky;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 13vh;
+        background-color: rgba(0, 0, 0, 0.5);
+        z-index: 4;
+        margin-left: 0px;
+    }
+
+    
+    button{  
+        background-color: orange;
+        border-radius: 5px 5px 5px 5px;
+        height: 30px;
+        border: 4px solid purple;
+        color: black ;
+        font-style: bold;
+        }
+  
+          button:hover{
+              background-color: rgb(240, 78, 255);
+  
+          }
+
+          
+          .sobrenos{
+            margin-top: 35px;
+            margin-left: 1300px;
+            
+           }
